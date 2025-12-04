@@ -1,0 +1,17 @@
+[general]
+name=TildaJump
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Springt mit einer TILDA-URL (map=zoom/lat/lon) direkt zu dieser Position im QGIS-Canvas.
+about=Gibt eine Eingabemaske für eine TILDA-Webmap-URL aus und setzt den Karten-Canvas auf die entsprechende Position und einen ähnlichen Maßstab.
+version=1.0
+author=Dein Name
+email=you@example.com
+category=Vector
+tags=tilda,webmap,zoom,lat,lon,geocoding
+homepage=
+tracker=
+repository=
+icon=
+experimental=False
+deprecated=False
